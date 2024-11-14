@@ -19,11 +19,11 @@ This test project
 Execute following commands
 
 ```shell
-python3 -m venv venv 
+python3 -m venv .venv 
 ```
 
 ```shell
-source venv/bin/activate
+source .venv/bin/activate
 ```
 ```shell
 pip install -r requirements.txt
