@@ -30,6 +30,8 @@ pip install -r requirements.txt
 ```
 
 ## 🤖 Test invocation
+Go to https://thecatapi.com/ and get API Key. Set it in .env file
+
 To start test press green triangle opposite test name or execute this command
 
 ```shell
